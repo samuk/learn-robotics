@@ -8,20 +8,20 @@
 A series of resources to use with the open-hardware [Smartcar 2.0 robot](https://github.com/rosmo-robot/smartcar_shield#platform) (In development)
 
 # 1) Arduino
-[Smartcar](https://github.com/platisd/smartcar_shield/tree/master/examples/Car) todo: write basic intro
+- [Smartcar](https://github.com/platisd/smartcar_shield/tree/master/examples/Car) todo: write basic intro
 
 # 2) Micropython
 
-[Sunfounder](https://github.com/sunfounder/pico_4wd_car/tree/main/examples)
+- [Sunfounder](https://github.com/sunfounder/pico_4wd_car/tree/main/examples)
 
 # 3) Python
 
-[Pyrobots](https://www.csc.liv.ac.uk/~lad/pyrobots/exercises.html)
-[Autonomous Robotics - ENPM 809T](https://github.com/govindak-umd/Autonomous_Robotics)
+- [Pyrobots](https://www.csc.liv.ac.uk/~lad/pyrobots/exercises.html)
+- [Autonomous Robotics - ENPM 809T](https://github.com/govindak-umd/Autonomous_Robotics)
 
 # 4) ROS2
 
-[Linorobot2](https://github.com/linorobot/linorobot2#linorobot2)
+- [Linorobot2](https://github.com/linorobot/linorobot2#linorobot2)
 
 
 
