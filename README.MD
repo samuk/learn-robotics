@@ -12,7 +12,7 @@ A series of resources to use with the open-hardware [Smartcar 2.0 robot](https:/
 - [Mu](https://www.youtube.com/watch?v=opes_7Uf49U)
 
 # 2) Arduino
-- [Smartcar](https://github.com/platisd/smartcar_shield/tree/master/examples/Car) todo: write basic intro
+- [Smartcar](https://github.com/platisd/smartcar_shield/tree/master/examples/Car) Projects from [2019](https://github.com/DIT112-V19), [2020](https://github.com/DIT112-V20/) [2021](https://github.com/DIT112-V21/)
 
 # 3) Python
 
