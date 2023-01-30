@@ -1,11 +1,30 @@
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) 
 
-- If you want to use Arduino or Raspberry Pi to make robots, [this](./PROTOTYPING.md) short list might be helpful.
-- Check [this](./BOOKS.MD) short list if you like reading textbooks.
-- Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
-- If there's anything you think should be included here, you can submit an issue and I'll check it out.
+# Objectives
+ -  Get at strong foundation in open-source electronics and prototyping
+ -  Gain intuition on mechanical prototyping and design with dc brush motors, servo motors and stepper motors
+ -  Apply basic machine learning and computer vision to a small project
 
-# Series of Courses
+A series of resources to use with the open-hardware [Smartcar 2.0 robot](https://github.com/rosmo-robot/smartcar_shield#platform) (In development)
+
+# 1) Arduino
+[Smartcar](https://github.com/platisd/smartcar_shield/tree/master/examples/Car) todo: write basic intro
+
+# 2) Micropython
+
+[Sunfounder](https://github.com/sunfounder/pico_4wd_car/tree/main/examples)
+
+# 3) Python
+
+[Pyrobots](https://www.csc.liv.ac.uk/~lad/pyrobots/exercises.html)
+
+# 4) ROS2
+
+[Linorobot2](https://github.com/linorobot/linorobot2#linorobot2)
+
+
+
+# Furter Courses
 
 - [♥️ Robot Academy][series1], Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
@@ -118,53 +137,6 @@
 [course43]: https://www.youtube.com/watch?v=CmiJIKxtEOE&list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9
 [course44]: https://rsl.ethz.ch/education-students/lectures/ros.html
 
-# Hands-on and Blogs
-- ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30] | [In Real Life][h36]
-- [♥️ Akiyuki Kawaguchi][h19]
-- [📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
-- [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
-- [DIY Walkers][h10], Ben Vagle
-- [PythonRobotics][h25], Atsushi Sakai
-- [Spot Mini Mini][h33] + [Open Quadruped][h34]
-- [Duckie Town: Minimal Autonomy Platforms][h35]
-- [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
-- [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
-- [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
-- [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
-- [Prof Daniela Rus][h26] | [Sarah Tang][h28] | [Beatty Robotics][h18]
-- [Andrew Dahdouh][h11] | [Oscar Liang][h12] | [Maurice Rahme][h31]
-
-[h1]: http://www.donkeycar.com/
-[h2]: http://diyrobocars.com/
-[h3]: https://mit-racecar.github.io
-[h4]: https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/
-[h5]: http://f1tenth.org/lectures
-[h6]: https://www.jetsonhacks.com/category/robotics/
-[h7]:https://racecarj.com/
-[h8]: http://www.brokking.net/ymfc-32_main.html
-[h9]: https://dojofordrones.com/
-[h10]: https://www.diywalkers.com/
-[h11]: https://realitybytes.blog/
-[h12]: https://oscarliang.com/
-[h13]: https://www.youtube.com/user/MacPuffdog/playlists
-[h14]: https://www.youtube.com/watch?v=0BoPoWF_FwY&list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf
-[h15]: https://mithi.github.io/robotics-blog/
-[h16]: https://github.com/mithi/hexapod-robot-simulator
-[h17]: https://www.formulapi.com/
-[h18]: https://beatty-robotics.com/
-[h19]: https://akiyuki.jp/en/
-[h25]: https://github.com/AtsushiSakai/PythonRobotics
-[h26]: http://danielarus.csail.mit.edu/index.php/projects/
-[h27]: https://www.youtube.com/watch?v=DfBF26DaT-M
-[h28]: https://www.sarahtang.net/
-[h29]: https://hexapod.netlify.app/
-[h30]: https://github.com/mithi/hexapod
-[h31]: https://moribots.github.io/
-[h32]: https://autorally.github.io/
-[h33]: https://github.com/OpenQuadruped/spot_mini_mini
-[h34]: https://github.com/adham-elarabawy/open-quadruped
-[h35]: https://www.duckietown.org/
-[h36]: https://github.com/mithi/hexapod-irl
 
 # Useful Concepts and Tools
 - CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
