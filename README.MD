@@ -24,7 +24,7 @@ A series of resources to use with the open-hardware [Smartcar 2.0 robot](https:/
 
 
 
-# Furter Courses
+# Further Courses
 
 - [♥️ Robot Academy][series1], Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
