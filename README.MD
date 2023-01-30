@@ -7,9 +7,9 @@
 
 A series of resources to use with the open-hardware [Smartcar 2.0 robot](https://github.com/rosmo-robot/smartcar_shield#platform) (In development)
 
-# 1) Edublocks/Circuitpython
+# 1) Circuitpython/Mu
 
-- [Edublocks](https://app.edublocks.org/showcase/gKciQm1nsSA1dGGnOpam)
+- [Mu](https://www.youtube.com/watch?v=opes_7Uf49U)
 
 # 2) Arduino
 - [Smartcar](https://github.com/platisd/smartcar_shield/tree/master/examples/Car) todo: write basic intro
