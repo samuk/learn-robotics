@@ -22,6 +22,7 @@ A series of resources to use with the open-hardware [Smartcar 2.0 robot](https:/
 # 4) ROS2
 
 - [Linorobot2](https://github.com/linorobot/linorobot2#linorobot2)
+- [Visual circuit](https://github.com/JdeRobot/VisualCircuit#visual-circuit)
 
 
 
