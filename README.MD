@@ -18,6 +18,7 @@ A series of resources to use with the open-hardware [Smartcar 2.0 robot](https:/
 
 - [Pyrobots](https://www.csc.liv.ac.uk/~lad/pyrobots/exercises.html)
 - [Autonomous Robotics - ENPM 809T](https://github.com/govindak-umd/Autonomous_Robotics)
+- [Python Robotics](https://atsushisakai.github.io/PythonRobotics/getting_started.html)
 
 # 4) ROS2
 
