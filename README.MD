@@ -159,6 +159,8 @@ A series of resources to use with the open-hardware [Smartcar 2.0 robot](https:/
 [tool5]: https://github.com/calcmogul/controls-engineering-in-frc
 [tools15]: https://missing.csail.mit.edu/
 
+[Top 100 universities](https://edurank.org/engineering/robotics/)
+
 # Archived Courses
 - EdX: [Robotics: Locomotion Engineering][course36], Dan Koditschek, University of Pennsylvania
 - EdX: [Robotics: Dynamics and Control][course37], Vijay Kumar, University of Pennsylvania
