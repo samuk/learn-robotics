@@ -207,5 +207,7 @@ A series of resources to use with the open-hardware [Smartcar 2.0 robot](https:/
 [related4]: https://www.robotshop.com/community/robot
 [related5]: https://roboticstoday.github.io/watch.html
 
+[UK undergraduate](https://www.thecompleteuniversityguide.co.uk/courses/search/undergraduate/all?keyword=robotics#h1)
+
 
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi)
