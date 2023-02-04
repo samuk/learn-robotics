@@ -16,7 +16,7 @@ A series of resources to use with the open-hardware [Smartcar 2.0 robot](https:/
 
 # 3) Python
 
-- [Pyrobots](https://www.csc.liv.ac.uk/~lad/pyrobots/exercises.html)
+- [Pyrobots](https://www.csc.liv.ac.uk/~lad/pyrobots/exercises.html) eg [Test document](https://rosmo-robot.github.io/part-1-initio/)
 - [Autonomous Robotics - ENPM 809T](https://github.com/govindak-umd/Autonomous_Robotics)
 - [Python Robotics](https://atsushisakai.github.io/PythonRobotics/getting_started.html)
 
